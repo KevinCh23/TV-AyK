@@ -1,0 +1,21 @@
+C:\Users\admin\source\repos\TV AyK\TV AyK\bin\Debug\net8.0-windows\TV AyK.exe
+C:\Users\admin\source\repos\TV AyK\TV AyK\bin\Debug\net8.0-windows\TV AyK.dll
+C:\Users\admin\source\repos\TV AyK\TV AyK\bin\Debug\net8.0-windows\TV AyK.deps.json
+C:\Users\admin\source\repos\TV AyK\TV AyK\bin\Debug\net8.0-windows\TV AyK.runtimeconfig.json
+C:\Users\admin\source\repos\TV AyK\TV AyK\bin\Debug\net8.0-windows\TV AyK.pdb
+C:\Users\admin\source\repos\TV AyK\TV AyK\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\admin\source\repos\TV AyK\TV AyK\obj\Debug\net8.0-windows\TV AyK.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\TV AyK\TV AyK\obj\Debug\net8.0-windows\TV_AyK.FormularioAdmin.resources
+C:\Users\admin\source\repos\TV AyK\TV AyK\obj\Debug\net8.0-windows\TV_AyK.FormularioInicioSesion.resources
+C:\Users\admin\source\repos\TV AyK\TV AyK\obj\Debug\net8.0-windows\TV_AyK.FormularioUsuario.resources
+C:\Users\admin\source\repos\TV AyK\TV AyK\obj\Debug\net8.0-windows\TV AyK.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\TV AyK\TV AyK\obj\Debug\net8.0-windows\TV AyK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\TV AyK\TV AyK\obj\Debug\net8.0-windows\TV AyK.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\TV AyK\TV AyK\obj\Debug\net8.0-windows\TV AyK.AssemblyInfo.cs
+C:\Users\admin\source\repos\TV AyK\TV AyK\obj\Debug\net8.0-windows\TV AyK.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TV AyK\TV AyK\obj\Debug\net8.0-windows\TV AyK.csproj.Up2Date
+C:\Users\admin\source\repos\TV AyK\TV AyK\obj\Debug\net8.0-windows\TV AyK.dll
+C:\Users\admin\source\repos\TV AyK\TV AyK\obj\Debug\net8.0-windows\refint\TV AyK.dll
+C:\Users\admin\source\repos\TV AyK\TV AyK\obj\Debug\net8.0-windows\TV AyK.pdb
+C:\Users\admin\source\repos\TV AyK\TV AyK\obj\Debug\net8.0-windows\TV AyK.genruntimeconfig.cache
+C:\Users\admin\source\repos\TV AyK\TV AyK\obj\Debug\net8.0-windows\ref\TV AyK.dll

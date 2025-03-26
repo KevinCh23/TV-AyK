@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gv/iK7gFnTQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\TV AyK\\TV AyK\\TV AyK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
